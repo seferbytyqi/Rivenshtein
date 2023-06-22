@@ -1,6 +1,8 @@
 # Rivenshtein 1.0.0.1
+Rivenshtein is an application that measures Levenshtein distance based on Stanford University lectures. This application has been developed in Natural Language Processing (NLP) Course and is an open-source.
+
 Rivenshtein është një aplikacion që bën matjen e distancës së Levenshtein-it bazuar në ligjëratat e Universitetit të Stanford-it.
-Ky aplikacion është zhvilluar në Përpunimin e Gjuhës Natyrale (NLP) dhe është burim i hapur.
+Ky aplikacion është zhvilluar në Kursin e Përpunimit të Gjuhës Natyrale (NLP) dhe është burim i hapur.
 
 link: https://web.stanford.edu/class/cs124/lec/med.pdf
 

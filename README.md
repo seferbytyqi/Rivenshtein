@@ -1,5 +1,6 @@
 # Rivenshtein 1.0.0.1
-Rivnshtein eshte aplikacion qe e mate distancen e Levenshtein-it bazuar ne ligjeratat e Stanford University,
+Rivenshtein është një aplikacion që bën matjen e distancës së Levenshtein-it bazuar në ligjëratat e Universitetit Stanford.
+Ky aplikacion është zhvilluar gjatë ligjëratave në Përpunimin e Gjuhës Natyrale.
 
 link: https://web.stanford.edu/class/cs124/lec/med.pdf
 

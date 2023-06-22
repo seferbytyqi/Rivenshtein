@@ -3,7 +3,7 @@ Rivnshtein eshte aplikacion qe e mate distancen e Levenshtein-it bazuar ne ligje
 
 link: https://web.stanford.edu/class/cs124/lec/med.pdf
 
-![Rivenshtein](https://github.com/seferbytyqi/Rivenshtein/assets/13500753/4fb8f31a-21c9-497f-a46c-e663801bd198)
+![Rivenshtein](https://github.com/seferbytyqi/Rivenshtein/assets/13500753/ff67c90f-c57f-475b-9c4c-42e0e68c6960)
 
 ![Screenshot 2023-06-22 132203](https://github.com/seferbytyqi/Rivenshtein/assets/13500753/17229a52-b3bb-466e-95d9-1e39b0fc6dc8)
 
